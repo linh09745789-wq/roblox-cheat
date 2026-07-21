@@ -2,7 +2,7 @@
 --// Official version - Compact Toggle Button
  
 -- Initial Configuration
-local maxSpeed = 375 
+local maxSpeed = 325 
 local enabled = false
  
 local player = game.Players.LocalPlayer
